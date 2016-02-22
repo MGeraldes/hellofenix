@@ -31,3 +31,4 @@
    4) execute: remove and add names
 
       $ mvn exec:java -Dexec.args="-Mateus -Maria +Joaquim +Teresa"
+"# hellofenix" 
